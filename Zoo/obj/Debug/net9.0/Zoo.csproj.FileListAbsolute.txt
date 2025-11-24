@@ -1,0 +1,4 @@
+C:\Users\Ander\OneDrive\Documentos\clasenet\Zoo\obj\Debug\net9.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ander\OneDrive\Documentos\clasenet\Zoo\obj\Debug\net9.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\Ander\OneDrive\Documentos\clasenet\Zoo\obj\Debug\net9.0\Zoo.AssemblyInfo.cs
+C:\Users\Ander\OneDrive\Documentos\clasenet\Zoo\obj\Debug\net9.0\Zoo.csproj.CoreCompileInputs.cache
